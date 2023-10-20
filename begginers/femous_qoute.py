@@ -1,0 +1,1 @@
+print('Napolen Hill, once said, "What ever you can see in your mind and feel it in your heart, that you can acheive."')
